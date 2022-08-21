@@ -1,0 +1,13 @@
+# Classificador de Tweets
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+
+Como executar?
+
+```bash
+Abrir arquivo ".ipynb" com jupyter notebook e selecionar o comando "run all cells" 
+todas as dependencias serão instaladas e o codigo será executado.
+
+```
